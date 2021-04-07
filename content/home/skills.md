@@ -24,12 +24,24 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "80%"  
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Making Stuff"
+  description = "80%"  
+
+[[feature]]
+  icon = "walking"
+  icon_pack = "fas"
+  name = "Walking"
+  description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "bread-slice"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Baking"
   description = "10%"
 
 # Uncomment to use emoji icons.

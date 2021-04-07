@@ -1,6 +1,9 @@
+.DS_Store
+
 # IDEs
 .idea/
 
 # Hugo
 resources/
 public/
+.Rproj.user
