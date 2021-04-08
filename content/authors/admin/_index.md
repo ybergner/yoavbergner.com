@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Learning Sciences & Educational Technology
+role: "Assistant Professor <br> Learning Sciences & Educational Technology"
 
 # Organizations/Affiliations
 organizations:
 - name: New York University
-  url: ""
+  url: "https://steinhardt.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data literacy, educational makerspaces, collaborative problem-solving, and next-generation assessment.
 
 interests:
 - Data Literacy for Dancers
@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Theoretical Physics
+  - course: Ph.D. in Theoretical Physics
     institution: Massachusetts Institute of Technology
     year: 2003
-  - course: AB in Physics
+  - course: B.A. in Physics
     institution: Harvard College
     year: 1997
 
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Yoav's research combines psychometrics and learning sciences in pursuit of analysis methods that inform educational design. He is particularly interested in the assessment of learning in Makerspaces and Fablabs, in data literacy curriculum design (with dancers!), and in collaborative problem solving. He co-developed CPSX, an extension for real-time small-group discussion using the Open edX learning management system. 
+My research combines psychometrics and learning sciences (especially design-based research) in pursuit of analysis methods that inform educational design. I am particularly interested in the assessment of learning in Makerspaces and Fablabs, in data literacy curriculum design with dancers, and in collaborative problem solving. 
 
-Prior to joining the faculty at NYU, Yoav was a Research Scientist at Educational Testing Service. His post-doctoral path involved five years as a sculptor and a furniture-maker, followed by three years as a teacher in a public early college high school, where he taught science, mathematics, industrial arts, and philosophy of science. 
+Prior to joining the faculty at NYU, I was a research scientist at (the) Educational Testing Service. My post-doctoral path involved five years as a sculptor and a furniture-maker, followed by three years as a teacher in a public early college high school, where I taught science, mathematics, industrial arts, and philosophy of science. 
