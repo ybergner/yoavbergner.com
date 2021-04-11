@@ -7,7 +7,8 @@ summary: ''
 authors:
 - Yoav Bergner
 - Anne-Laure Fayard
-tags: []
+tags:
+- Assessment Makerspaces
 categories: []
 date: '2021-01-01'
 lastmod: 2021-04-11T13:51:00-04:00

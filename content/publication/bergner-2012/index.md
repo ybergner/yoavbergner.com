@@ -12,7 +12,8 @@ authors:
 - Saif Rayyan
 - Daniel Thomas Seaton
 - David E. Pritchard
-tags: []
+tags: 
+- IRT Assessment
 categories: []
 date: '2012-01-01'
 lastmod: 2021-04-11T13:51:00-04:00
